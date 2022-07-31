@@ -14,10 +14,10 @@
 </p>
 
 ## Repo Card:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarashadi&langs_count=4&theme=codeSTACKr&show_icons=true)](https://github.com/Tarashadi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarashadi&langs_count=4&theme=jolly&show_icons=true)](https://github.com/Tarashadi/github-readme-stats)
 
 ## Stats:
-![Tara Shadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarashadi&theme=codeSTACKr&show_icons=true)
+![Tara Shadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarashadi&theme=jolly&show_icons=true)
 
 ## Activity Graph:
 
