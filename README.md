@@ -1,19 +1,19 @@
 ### Hello there 👋 My name is Tara Shadi
-● 🔭 I’m currently working on my private projects
+● 🔭 I’m currently working on my private projects.
 
-●🌱 These days I’m learning Front-End development, especially React
+●🌱 These days I’m learning Front-End development, especially React.
 
-● 🤔 I’m looking for support and collaboration in front-end development
+● 🧐 I’m looking for support and collaboration in front-end development.
 
-● 💬 Ask me about nothing 😄
+● 😄 Ask me about nothing. 
 
-● ✌ I’m both a learner and a teacher at the same time
+● ✌ I’m both a learner and a teacher at the same time.
 
-● 🎮 I’m in love with colors and the colorful world of front-end
+● 🎮 I’m in love with colors and the colorful world of front-end.
 
-● 👩‍🏫 Instructor at Poulstar Programming Institute
+● 👩‍🏫 Instructor at Poulstar Programming Institute.
 
-● 🕵️‍♀️ You can find me through the links below
+● 🕵️‍♀️ You can find me through the links below.
 <p>
  <a href="https://github.com/Tarashadi" target="_blank" rel="noopener noreferrer"> <img src="https://images.unsplash.com/photo-1611262588019-db6cc2032da3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.instagram.com/tara_shadi/" target="_blank" rel="noopener noreferrer"> <img src="https://images.unsplash.com/photo-1611262588024-d12430b98920?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
