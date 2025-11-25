@@ -53,13 +53,5 @@
 </div>
 
 
-## Stats:
-![Tara Shadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarashadi&theme=jolly&show_icons=true)
-
-## Activity Graph:
-
-[![Tara Shadi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tarashadi&theme=material-palenight	)](https://github.com/sadafamininia99/github-readme-activity-graph)
-
-<br />
 
 
