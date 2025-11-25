@@ -19,30 +19,6 @@
 </p>
 
 
-## Repo Card:
-## 🚀 Skills Level
-
-**HTML / CSS**
-![HTML/CSS](https://progress-bar.dev/80/?title=HTML/CSS&width=300)
-
-**JavaScript**
-![JavaScript](https://progress-bar.dev/60/?title=JavaScript&width=300)
-
-**Python**
-![Python](https://progress-bar.dev/70/?title=Python&width=300)
-
-**React**
-![React](https://progress-bar.dev/50/?title=React&width=300)
-
-
-## Stats:
-![SoroushMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoroushMB&theme=codeSTACKr&show_icons=true)
-
-## Activity Graph:
-
-[![Soroush MasoomBabaei's github activity graph](https://activity-graph.herokuapp.com/graph?username=SoroushMB&theme=material-palenight	)](https://github.com/sadafamininia99/github-readme-activity-graph)
-
-
 ### 🔝 Top Languages
 
 <img src="https://img.shields.io/badge/HTML%2FCSS-%23e34c26?style=for-the-badge&logo=html5&logoColor=white" />
