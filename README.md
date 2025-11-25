@@ -60,7 +60,8 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## Repo Card:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarashadi&langs_count=4&theme=jolly&show_icons=true)](https://github.com/Tarashadi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushMB&langs_count=4&theme=codeSTACKr&show_icons=true&hide=php,java,c#,c,c++,dart,...)](https://github.com/SoroushMB/github-readme-stats)
+
 
 ## Stats:
 ![Tara Shadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarashadi&theme=jolly&show_icons=true)
