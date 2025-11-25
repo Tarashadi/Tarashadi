@@ -20,7 +20,20 @@
 
 
 ## Repo Card:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushMB&langs_count=4&theme=codeSTACKr&show_icons=true)](https://github.com/SoroushMB/github-readme-stats)
+## 🚀 Skills Level
+
+**HTML / CSS**
+![HTML/CSS](https://progress-bar.dev/80/?title=HTML/CSS&width=300)
+
+**JavaScript**
+![JavaScript](https://progress-bar.dev/60/?title=JavaScript&width=300)
+
+**Python**
+![Python](https://progress-bar.dev/70/?title=Python&width=300)
+
+**React**
+![React](https://progress-bar.dev/50/?title=React&width=300)
+
 
 ## Stats:
 ![SoroushMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoroushMB&theme=codeSTACKr&show_icons=true)
