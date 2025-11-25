@@ -60,7 +60,16 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## Repo Card:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushMB&langs_count=4&theme=codeSTACKr&show_icons=true&hide=php,java,c#,c,c++,dart,...)](https://github.com/SoroushMB/github-readme-stats)
+<div align="center">
+
+### 🔝 Top Languages
+
+<img src="https://img.shields.io/badge/HTML%2FCSS-%23e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-%2361dafb?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
 
 
 ## Stats:
