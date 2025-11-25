@@ -5,8 +5,6 @@
 
 ● 🧐 I’m looking for support and collaboration in front-end development.
 
-● 😄 Ask me about nothing. 
-
 ● ✌ I’m both a learner and a teacher at the same time.
 
 ● 🤞 I’m in love with colors and the colorful world of front-end.
