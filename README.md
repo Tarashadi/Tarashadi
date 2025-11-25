@@ -11,12 +11,6 @@
 
 ● 👩‍🏫 Instructor at Poulstar Programming Institute.
 
-● 🕵️‍♀️ You can find me through the links below.
-
-<p>
- <a href="https://github.com/Tarashadi" target="_blank" rel="noopener noreferrer"> <img src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Finstagram-logo&psig=AOvVaw0Jl9tjyQojbVP_Jgk-Ta4c&ust=1764171901718000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjhntDSjZEDFQAAAAAdAAAAABAL" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.instagram.com/tara_shadi/" target="_blank" rel="noopener noreferrer"> <img src="https://images.unsplash.com/photo-1611262588024-d12430b98920?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
 
 
 ### 🔝 Top Languages
