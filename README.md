@@ -18,7 +18,16 @@
 </p>
 
 ## Repo Card:
-<div align="center">
+## Repo Card:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushMB&langs_count=4&theme=codeSTACKr&show_icons=true)](https://github.com/SoroushMB/github-readme-stats)
+
+## Stats:
+![SoroushMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoroushMB&theme=codeSTACKr&show_icons=true)
+
+## Activity Graph:
+
+[![Soroush MasoomBabaei's github activity graph](https://activity-graph.herokuapp.com/graph?username=SoroushMB&theme=material-palenight	)](https://github.com/sadafamininia99/github-readme-activity-graph)
+
 
 ### 🔝 Top Languages
 
